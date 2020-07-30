@@ -1,0 +1,23 @@
+{
+    "ACTION_DIM": 128,
+    "STATE_DIM": 750,
+    "BATCH_SIZE": 32,
+    "BN": "reward",
+    "BUFFER_SIZE": 16000,
+    "EPISODE_COUNT": 10,
+    "EXPLORE": 0.8,
+    "GAMMA": 0.99,
+    "HACTI": "selu",
+    "HIDDEN1_UNITS": 500,
+    "HIDDEN2_UNITS": 500,
+    "LRA": 0.0001,
+    "LRC": 0.001,
+    "MAX_DELTA": 0.1,
+    "MAX_STEPS":500,
+    "MU": 0.0,
+    "PRINT": true,
+    "RSEED": null,
+    "SIGMA": 0.4,
+    "TAU": 0.001,
+    "THETA": 0.2
+}
